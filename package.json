@@ -1,0 +1,14 @@
+{
+  "name": "Diary",
+  "version": "1.0.0",
+  "description": "Um simples banco de dados Dr anotações",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "*"
+  },
+  "author": "Junaiyo",
+  "license": "MIT"
+}
